@@ -1,0 +1,14 @@
+{
+  "bot_token": "ВАШ_ТОКЕН_БОТА_ИЗ_BOTFATHER",
+  "chat_id": "ID_ЧАТА_КУДА_ПИСАТЬ",
+  "interval_s": 300,
+  "twitch": {
+    "client_id": "ВАШ_TWITCH_CLIENT_ID",
+    "client_secret": "ВАШ_TWITCH_CLIENT_SECRET"
+  },
+
+  "extra_channels": [ 
+    {"type": "youtube", "name": "@handle_youtube_канала", "label": "Название"},
+    {"type": "twitch", "name": "login_twitch_вне_фоллоулиста", "label": "Название"}
+  ]
+}
